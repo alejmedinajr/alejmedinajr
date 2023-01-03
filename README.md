@@ -18,5 +18,5 @@ Some of my social media links
 - 🌱 I’m currently learning **App development**
 - 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about **Undergraduate Research!**
-- 📫 How to reach me: Email me! 
+- 📫 How to reach me: Email me @alex.m@alexmedina.com 
 - ⚡ Fun fact: My favorite movie of all time is The Matrix (1999)
