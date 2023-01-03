@@ -14,6 +14,8 @@ Social Links:
 
 ---
 
+<img align='right' src='https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/dancing-cat.gif' width='200'>
+
 - 🔭 I’m currently working as **Student Researcher, CS Tutor, and Consultant**
 - 🌱 I’m currently learning **App development**
 - 👯 I’m looking to collaborate on anything interesting
