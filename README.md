@@ -7,7 +7,7 @@ I am **Alejandro Medina**. I am currently attending Southwestern University for 
 
 <!-- Consider making a blog and/or youtube channel
 -->
-Co-Author of Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls: **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
+Co-Author of **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
 
 Some of my social media links
 [![Linkedin: alejmedinajr](https://img.shields.io/badge/-alejmedinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
