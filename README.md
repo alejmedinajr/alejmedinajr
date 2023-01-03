@@ -1,5 +1,5 @@
 
-![Banner Image](https://github.com/alejmedinajr/alejmedinajr/master/assets/self-banner.png)
+![Banner Image](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/self-banner.jpg)
 
 ## About
 
