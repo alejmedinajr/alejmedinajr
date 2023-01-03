@@ -1,19 +1,19 @@
-<!--![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png)
--->
+![Banner Image](https://github.com/alejmedinajr/alejmedinajr/master/assets/self-banner.png)
+
 ## About
 
-I am **Alejandro Medina**. I am currently attending Southwestern University for a bachelor's of science in Computer Science.   
+I am **Alejandro Medina**. I am currently attending Southwestern University for a bachelor's of science in Computer Science. I enjoy reading, listening to music, and working out. I have participated in various undergrad research opportunities, and have even presented at an international conference! Currently, I am collaborating on an app that focuses on helping teens ween off of nicotine addiciton. I am also currently collaborating on a reaserach paper that focuses on using quality diversity algorithms in Minecraft!      
 
-<!-- Vist my **[Blog](https://codewithghazi.com/blog) - [YouTube](https://www.youtube.com/channel/UCio7gIFilw6wsgbTZAVOBrg)**
+<!-- Consider making a blog and/or youtube channel
 -->
-Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
+Co-Author of Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls: **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
 
-[![Linkedin: alejmedinajr](https://img.shields.io/badge/-Alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
+[![Linkedin: alejmedinajr](https://img.shields.io/badge/-alejmedinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
-- 🌱 I’m currently learning **Python - Blockchain**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me:
+- 🔭 I’m currently working as **Student Researcher, CS Tutor, and Consultant**
+- 🌱 I’m currently learning **App development**
+- 👯 I’m looking to collaborate on anything interesting
+- 💬 Ask me about **Undergraduate Research!**
+- 📫 How to reach me: Email me! 
+- ⚡ Fun fact: My favorite movie of all time is The Matrix (1999)
