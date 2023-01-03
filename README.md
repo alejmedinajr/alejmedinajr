@@ -1,17 +1,17 @@
 
 ![Banner Image](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/self-banner.jpg)
 
-## About
-
+---
 I am **Alejandro Medina**. I am currently attending Southwestern University for a bachelor's of science in Computer Science. I enjoy reading, listening to music, and working out. I have participated in various undergrad research opportunities, and have even presented at an international conference! Currently, I am collaborating on an app that focuses on helping teens ween off of nicotine addiciton. I am also currently collaborating on a reaserach paper that focuses on using quality diversity algorithms in Minecraft!      
 
 <!-- Consider making a blog and/or youtube channel
 -->
 Co-Author of **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
 
-Some of my social media links
+Social Links:
 [![Linkedin: alejmedinajr](https://img.shields.io/badge/-alejmedinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
 [![Instagram Badge](https://img.shields.io/badge/-alejmedinajr-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alejmedinajr/)](https://www.instagram.com/alejmedinajr/)
+
 ---
 
 - 🔭 I’m currently working as **Student Researcher, CS Tutor, and Consultant**
