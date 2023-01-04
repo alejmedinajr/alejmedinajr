@@ -2,11 +2,12 @@
 ![Banner Image](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/self-banner.jpg)
 
 ---
-I am **Alejandro Medina**. I am currently attending Southwestern University for a bachelor's of science in Computer Science. I enjoy reading, listening to music, and working out. I have participated in various undergrad research opportunities, and have even presented at an international conference! Currently, I am collaborating on an app that focuses on helping teens ween off of nicotine addiciton. I am also currently collaborating on a reaserach paper that focuses on using quality diversity algorithms in Minecraft!      
+I am **Alejandro Medina**. I am currently attending Southwestern University for a bachelor's of science in Computer Science. I enjoy reading, listening to music, and working out. I have participated in various undergrad research opportunities, and have even presented at an international conference! Currently, I am collaborating on an app that focuses on helping teens ween off of nicotine addiction. I am also currently collaborating on a reaserach paper that focuses on the **[SCOPE](https://youtu.be/7jYzZO0z2-0)** Summer Research I did through my university. This research focused on using quality diversity algorithms in Minecraft to evolve flying machines!      
 
 <!-- Consider making a blog and/or youtube channel
 -->
 Co-Author of **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
+
 
 Social Links:
 [![Linkedin: alejmedinajr](https://img.shields.io/badge/-alejmedinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
