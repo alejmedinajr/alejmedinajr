@@ -13,7 +13,7 @@ Social Links:
 [![Linkedin: alejmedinajr](https://img.shields.io/badge/-alejmedinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
 [![Instagram Badge](https://img.shields.io/badge/-alejmedinajr-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alejmedinajr/)](https://www.instagram.com/alejmedinajr/)
 
-My **<a id="raw-url" href="https://raw.githubusercontent.com/alejmedinajr/project/main/Alejandro Medina Resume (pdf).pdf">Resume</a>**
+My **[Resume](https://github.com/alejmedinajr/alejmedinajr/blob/main/Alejandro%20Medina%20Resume%20(pdf).pdf)**
 
 
 ---
