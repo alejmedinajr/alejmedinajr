@@ -7,6 +7,7 @@ I am **Alejandro Medina**. I am currently attending Southwestern University for 
 <!-- Consider making a blog and/or youtube channel
 -->
 Co-Author of **[Prioritizing Self, Team, or Job: Trends in Sincerity in Cooperative Polls](https://link.springer.com/chapter/10.1007/978-3-031-16538-2_4)**
+Co-Author of **[Evolving Flying Machines in Minecraft Using Quality Diversity](https://arxiv.org/abs/2302.00782)** (pre-print)
 
 
 My **[Resume](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/Alejandro%20Medina%20Resume%20(pdf).pdf)**
