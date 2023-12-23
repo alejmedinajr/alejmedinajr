@@ -11,7 +11,7 @@ Co-Author of **[Prioritizing Self, Team, or Job: Trends in Sincerity in Coope
 Co-Author of **[Evolving Flying Machines in Minecraft Using Quality Diversity](https://dl.acm.org/doi/10.1145/3583131.3590352)**
 
 
-My **[Resume](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/Alejandro%20Medina%20Resume%20(pdf).pdf)**
+My **[Resume](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/Alejandro%20Medina%20CV.pdf)**
 
 
 Social Links:
