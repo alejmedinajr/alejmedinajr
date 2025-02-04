@@ -13,7 +13,7 @@ My **[CV](https://github.com/alejmedinajr/alejmedinajr/blob/main/assets/Alejandr
 
 Social Links:
 [![Linkedin: alejmedinajr](https://img.shields.io/badge/-alejmedinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejmedinajr/)](https://www.linkedin.com/in/alejmedinajr/)
-[![Instagram Badge](https://img.shields.io/badge/-alejmedinajr-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/alejmedinajr/)](https://www.instagram.com/bitsofalejandro/)
+[![Instagram Badge](https://img.shields.io/badge/-alejmedinajr-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bitsofalejandro/)](https://www.instagram.com/bitsofalejandro/)
 
 
 ---
